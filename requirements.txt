@@ -1,0 +1,9 @@
+Flask
+pdfminer.six
+python-docx
+spacy
+scikit-learn
+pyresparser
+nltk
+language-tool-python
+gunicorn
